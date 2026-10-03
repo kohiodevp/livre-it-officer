@@ -5,9 +5,12 @@ qui constitue un travail de professionnalisation à produire.
 
 Il n'est pas une liste de défauts. C'est une **feuille de route**.
 
-**Convention de statut :** les lignes ci-dessous sont **OBJECTIF** ou **NON
-ÉTABLI**. Aucune ne doit être reformulée en compétence acquise. Si une preuve est
-produite, la ligne correspondante de [`MATRICE_PREUVES.md`](MATRICE_PREUVES.md)
+**Convention de statut :** ce fichier ne traite que les lignes **OBJECTIF**, **DÉCLARÉ**
+promu à chantier, et **NON ÉTABLI** — les trois statuts qui impliquent un travail
+restant. Les lignes **DÉMONTRÉ** et **INTERPRÉTÉ** relèvent de la matrice et n'ont
+pas leur place ici. Aucune ligne de cette annexe ne doit être reformulée en
+compétence acquise. Si une preuve est
+produite, la ligne correspondante de [`MATRICE_PREUVES.md`](./MATRICE_PREUVES.md)
 change de statut — et cette annexe est mise à jour.
 
 ---

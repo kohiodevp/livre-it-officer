@@ -5,7 +5,7 @@ parties, classées par usage.
 
 **Convention de statut :** une commande listée ici est un **outil documenté**, pas
 une compétence acquise. La compétence correspondante reste à qualifier dans
-[`MATRICE_PREUVES.md`](MATRICE_PREUVES.md).
+[`MATRICE_PREUVES.md`](./MATRICE_PREUVES.md).
 
 **Avertissement :** aucune commande de cette annexe n'a été exécutée sur votre
 machine. Elles sont données comme aide-mémoire, à vérifier dans un environnement

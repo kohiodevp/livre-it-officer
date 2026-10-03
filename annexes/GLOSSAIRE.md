@@ -25,12 +25,6 @@ synonyme d'amateur.
 
 ---
 
-## B
-
-**BorgBackup** — Outil de sauvegarde chiffrée avec déduplication, utilisé dans ce
-livre pour la stratégie 3-2-1. La vérification d'une sauvegarde Borg passe par
-`borg check` puis par une restauration réelle.
-
 ---
 
 ## C
@@ -42,12 +36,17 @@ case vide est une instruction, pas un défaut de rédaction.
 service → port → protocole → application`. Respecter cet ordre évite de modifier
 simultanément plusieurs éléments.
 
+**Compromis** — Ce qu'un choix technique accepte de perdre pour gagner autre chose.
+Un choix sans compromis déclaré n'est pas encore expliqué.
+
+**Contrainte** — Limite réelle de l'environnement : ressource finie, réseau
+intermittent, absence d'Internet, délai de maintenance. La contrainte n'est pas
+l'ennemie de l'apprentissage — elle oblige à raisonner, et à distinguer le
+fonctionnement local de la dépendance externe.
+
 **Compétence** — Ce que l'on sait comprendre, réaliser, raisonner ou expliquer dans
 un contexte professionnel. Une compétence peut être réelle et rester
 indémontrable.
-
-**Contradiction** — Deux affirmations du dossier qui ne peuvent pas être vraies
-simultanément. À qualifier, pas à corriger automatiquement.
 
 
 ---
@@ -69,9 +68,6 @@ Distinguable d'une configuration déclarée, qui n'est qu'un fichier.
 **Diagnostic** — Démarche qui va du symptôme à la cause, en isolant la couche
 responsable avant d'agir. Partie II § 16.
 
-**Divergence** — Écart constaté entre deux artefacts du même projet. À qualifier,
-pas à corriger sans mandat.
-
 ---
 
 ## E
@@ -79,13 +75,14 @@ pas à corriger sans mandat.
 **ÉCHEC** — Marqueur de travail : contenu qui n'a pas pu être établi malgré une
 tentative. Décrit un obstacle documentaire, pas une insuffisance personnelle.
 
+**État initial** — Photographie de l'état d'un système **avant** toute intervention.
+C'est la référence de comparaison qui rend possible un « après » interprétable.
+Sans état initial documenté et daté, aucune conclusion sur l'effet d'une action
+n'est défendable.
+
 ---
 
 ## G
-
-**GeoPackage** — Format de base de données geospatial based sur SQLite, normé par
-l'OGC. Le livre montre son écriture (`gpkg_contents`, `gpkg_spatial_ref_sys`) et
-sa lecture.
 
 **Grille d'observation** — Tableau de critères observables permettant d'évaluer
 une simulation sur des comportements, non sur des impressions. Partie VI § 29.
@@ -119,7 +116,7 @@ d'un **texte**, jamais la valeur probante d'un résultat.
 
 **Matrice de preuves** — Tableau qui relie chaque compétence à sa source, son
 observable, son statut et la formulation autorisée. Voir
-[`MATRICE_PREUVES.md`](MATRICE_PREUVES.md).
+[`MATRICE_PREUVES.md`](./MATRICE_PREUVES.md).
 
 ---
 
@@ -136,7 +133,7 @@ Ne signifie pas que la compétence n'existe pas.
 ## O
 
 **OBJECTIF** — Statut : compétence ou pratique visée mais pas encore acquise ni
-démontrée. Voir [`OBJECTIFS_A_COMPLETER.md`](OBJECTIFS_A_COMPLETER.md).
+démontrée. Voir [`OBJECTIFS_A_COMPLETER.md`](./OBJECTIFS_A_COMPLETER.md).
 
 **Observable** — Ce qui peut être constaté par une commande ou un fichier. Dans la
 matrice, la deuxième colonne.
@@ -213,4 +210,4 @@ vérification absente laisse l'hypothèse au même statut qu'avant.
 Les technologies sans pratique documentée dans le dossier — Windows Server, Active
 Directory, SAN/NAS/RAID, ISO 27001, ITIL — **ne sont pas définies ici**. Les
 définir reviendrait à leur attribuer un statut qu'elles n'ont pas. Elles figurent
-dans [`OBJECTIFS_A_COMPLETER.md`](OBJECTIFS_A_COMPLETER.md) comme objectifs.
+dans [`OBJECTIFS_A_COMPLETER.md`](./OBJECTIFS_A_COMPLETER.md) comme objectifs.
