@@ -932,7 +932,8 @@ La boucle complète du livre se poursuit :
 
 ```
 COMPRENDRE → PRATIQUER → VÉRIFIER → PRODUIRE UNE PREUVE
-           → EXPLIQUER → IDENTIFIER UNE LIMITE → PROGRESSER
+           → EXPLIQUER → IDENTIFIER UNE LIMITE
+           → (progression)
 ```
 
 Une compétence professionnelle n'est donc pas seulement quelque chose que l'on
