@@ -1,0 +1,21 @@
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.idea/
+.vscode/
+*.swp
+*~
+*.bak
+*.tmp
+
+# Fichiers de travail locaux du livreur
+@brouillon/
+brouillon_*
+*.local.md
+
+# Données d'exercices et preuves de travail
+cahiers/
+preuves/
+journal*.md
