@@ -98,7 +98,7 @@ Le livre utilise cinq statuts.
 
 | Statut | Définition |
 |---|---|
-| **DÉMONTRÉ** | Une preuve vérifiable établit le résultat ou la compétence dans le périmètre considéré |
+| **DÉMONTRÉ** | Une preuve vérifiable, issue d'une exécution constatée, établit le résultat ou la compétence dans le périmètre considéré |
 | **DÉCLARÉ** | L'information est affirmée par une personne ou un document, mais la preuve opérationnelle correspondante n'est pas encore établie |
 | **INTERPRÉTÉ** | L'information résulte d'une interprétation raisonnable des éléments disponibles ; elle ne doit pas être présentée comme une observation directe |
 | **OBJECTIF** | La compétence ou la pratique est visée mais reste à acquérir ou à démontrer |

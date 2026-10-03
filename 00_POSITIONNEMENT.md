@@ -11,7 +11,7 @@ interprétable de la même manière.
 ## 1. À qui s'adresse ce livre
 
 Ce livre s'adresse à un informaticien **autodidacte** qui pratique, mais dont
-la compétence reste difficile à démontrer — parce qu'elle n'a pas été organized
+la compétence reste difficile à démontrer — parce qu'elle n'a pas été organisée
 en preuves, ou parce que les preuves produites ne sont pas visibles.
 
 Il ne suppose pas de diplôme en informatique. Il suppose de l'expérience réelle :
@@ -87,7 +87,7 @@ matrice des preuves.
 
 | Statut | Signification |
 |---|---|
-| **DÉMONTRÉ** | Un artefact ou un test exécuté atteste la compétence |
+| **DÉMONTRÉ** | Une preuve vérifiable, issue d'une exécution constatée, établit le résultat ou la compétence dans le périmètre considéré. Un artefact non exécuté n'atteint jamais ce statut : il reste DÉCLARÉ. |
 | **DÉCLARÉ** | La documentation affirme ; l'exécution n'a pas été observée |
 | **INTERPRÉTÉ** | Une déduction à partir de plusieurs observations |
 | **OBJECTIF** | Pas d'artefact ; c'est une cible d'apprentissage |
@@ -314,7 +314,7 @@ affirmation. Cette règle vaut pour tout l'ouvrage.
 | Autodidacte avec de la pratique mais aucune preuve | Partie IV, puis la matrice des preuves |
 | Autodidacte cherchant à structurer ses acquis | Partie I, puis II |
 | Candidat à un entretien, avec un dossier déjà constitué | Partie V |
-| Candidat sans pratique significant | Partie II, exercice par exercice |
+| Candidat sans pratique significative | Partie II, exercice par exercice |
 
 Dans tous les cas, la **matrice des preuves** (`annexes/MATRICE_PREUVES.md`) est
 le point de départ pratique : elle indique, compétence par compétence, ce qui

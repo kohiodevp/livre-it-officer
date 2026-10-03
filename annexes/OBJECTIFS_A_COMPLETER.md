@@ -17,7 +17,7 @@ change de statut — et cette annexe est mise à jour.
 
 ## 1. Les lignes en attente, par priorité
 
-La priorisation vient du rapport effort / valeur demonstrable, pas de
+La priorisation vient du rapport effort / valeur démontrable, pas de
 l'importance théorique.
 
 ### Priorité 1 — Docker / Compose

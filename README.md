@@ -63,7 +63,7 @@ supposer une compétence qui n'existe pas.
 
 | Statut | Signification |
 |---|---|
-| **DÉMONTRÉ** | Un artefact ou un test exécuté atteste la compétence |
+| **DÉMONTRÉ** | Une preuve vérifiable, issue d'une exécution constatée, établit le résultat ou la compétence dans le périmètre considéré. Un artefact non exécuté n'atteint jamais ce statut : il reste DÉCLARÉ. |
 | **DÉCLARÉ** | La documentation affirme ; l'exécution n'a pas été observée |
 | **INTERPRÉTÉ** | Une déduction à partir de plusieurs observations |
 | **OBJECTIF** | Pas d'artefact ; c'est une cible d'apprentissage |

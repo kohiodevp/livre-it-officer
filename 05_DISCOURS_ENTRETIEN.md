@@ -69,7 +69,7 @@ preuves.
 
 | Statut | Signification |
 |---|---|
-| **DÉMONTRÉ** | une preuve permet d'établir le résultat |
+| **DÉMONTRÉ** | une preuve issue d'une exécution constatée permet d'établir le résultat |
 | **DÉCLARÉ** | l'information est affirmée mais la preuve disponible ne permet pas de l'établir |
 | **INTERPRÉTÉ** | il s'agit d'une lecture ou d'une déduction à partir d'éléments observés |
 | **OBJECTIF** | compétence ou pratique que l'on prévoit encore de développer |

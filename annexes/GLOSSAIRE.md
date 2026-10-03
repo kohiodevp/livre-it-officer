@@ -59,8 +59,7 @@ preuve opérationnelle n'a pas été observée.
 **DÉD** — Marqueur de travail : contenu déduit, paragraphe ou cas de figure. À ne
 pas confondre avec INTERPRÉTÉ.
 
-**DÉMONTRÉ** — Statut : un artefact ou un test exécuté atteste la compétence dans
-le périmètre considéré.
+**DÉMONTRÉ** — Statut : une preuve vérifiable, issue d'une exécution constatée, établit le résultat ou la compétence dans le périmètre considéré. Un artefact non exécuté n'atteint jamais ce statut : il reste DÉCLARÉ..
 
 **Déploiement** — Action de rendre un système opérationnel sur une cible réelle.
 Distinguable d'une configuration déclarée, qui n'est qu'un fichier.

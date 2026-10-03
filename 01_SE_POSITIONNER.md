@@ -271,7 +271,7 @@ d'affirmation.
 
 | Statut | Définition ici | Ce qui le justifie |
 |---|---|---|
-| **DÉMONTRÉ** | Une preuve vérifiable permet d'établir le fait | Un artefact d'exécution |
+| **DÉMONTRÉ** | Une preuve vérifiable, issue d'une exécution constatée, permet d'établir le fait | Un artefact d'exécution |
 | **DÉCLARÉ** | Le candidat affirme avoir réalisé quelque chose, mais la preuve disponible ne permet pas encore de l'établir | Documentation, intention |
 | **INTERPRÉTÉ** | Une conclusion raisonnable est tirée à partir d'éléments observés, mais elle dépasse ce qui est directement démontré | Raisonnement |
 | **OBJECTIF** | La compétence est recherchée ou doit encore être développée | Plan de travail |
