@@ -26,7 +26,8 @@ Chaque notion suit six temps :
 
 ```
 COMPRENDRE → PRATIQUER → VÉRIFIER → PRODUIRE UNE PREUVE
-           → EXPLIQUER → IDENTIFIER UNE LIMITE → PROGRESSER
+           → EXPLIQUER → IDENTIFIER UNE LIMITE
+           → (progression)
 ```
 
 Le sixième temps n'est pas un échec à masquer. C'est une étape de travail : nommer
