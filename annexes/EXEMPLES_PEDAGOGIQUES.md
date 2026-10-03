@@ -65,7 +65,7 @@ pas sa valeur probante :
 Tous les noms, adresses et chemins sont fictifs. Les adresses employées appartiennent
 à des plages réservées à la documentation (RFC 5737) et ne pointent vers aucune
 machine. Aucun nom d'organisation, aucun identifiant réel, aucune donnée personnelle,
-aucun secret ne figure dans ce fichier.
+aucune donnée sensible ne figure dans ce fichier.
 
 ---
 

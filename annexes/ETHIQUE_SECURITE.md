@@ -214,7 +214,7 @@ impact, options écartées, option retenue, vérification, limite, action préve
 note montre la compétence. Elle n'expose pas la faille.
 
 Sur une vulnérabilité, la séquence indicative est : signalement au responsable, délai de
-correction, disclosure coordonnée, publication ensuite. Publier d'abord et prévenir
+correction, divulgation coordonnée, publication ensuite. Publier d'abord et prévenir
 ensuite n'est pas de la rigueur ; c'est une manière de déplacer une décision qui
 n'appartient pas au technicien.
 
