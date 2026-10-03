@@ -57,6 +57,8 @@ supposer une compétence qui n'existe pas.
 | [`annexes/CHECKLISTS.md`](annexes/CHECKLISTS.md) | Checklists de vérification et de passation |
 | [`annexes/OBJECTIFS_A_COMPLETER.md`](annexes/OBJECTIFS_A_COMPLETER.md) | Les lignes restées OBJECTIF ou NON ÉTABLI |
 | [`annexes/GLOSSAIRE.md`](annexes/GLOSSAIRE.md) | Glossaire du livre |
+| [`annexes/PHRASE_MANIFESTE.md`](annexes/PHRASE_MANIFESTE.md) | Formules normatives du livre |
+| [`annexes/EXEMPLES_PEDAGOGIQUES.md`](annexes/EXEMPLES_PEDAGOGIQUES.md) | Démonstrations de méthode, non probantes pour le lecteur |
 
 ---
 
