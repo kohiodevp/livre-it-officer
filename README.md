@@ -59,6 +59,7 @@ supposer une compétence qui n'existe pas.
 | [`annexes/GLOSSAIRE.md`](annexes/GLOSSAIRE.md) | Glossaire du livre |
 | [`annexes/PHRASE_MANIFESTE.md`](annexes/PHRASE_MANIFESTE.md) | Formules normatives du livre |
 | [`annexes/EXEMPLES_PEDAGOGIQUES.md`](annexes/EXEMPLES_PEDAGOGIQUES.md) | Démonstrations de méthode, non probantes pour le lecteur |
+| [`annexes/ETHIQUE_SECURITE.md`](annexes/ETHIQUE_SECURITE.md) | Règles de prudence pour produire et partager des preuves IT |
 
 ---
 
