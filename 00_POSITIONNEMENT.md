@@ -27,6 +27,10 @@ Le livre n'est pas un manuel de préparation à un entretien professionnel.
 L'entretien est **un usage parmi d'autres** des compétences développées ici, et
 non leur finalité.
 
+Les formules normatives du livre sont regroupées dans l'annexe
+`annexes/PHRASE_MANIFESTE.md` : elles fixent le cadre de lecture et de rigueur,
+sans se substituer à la méthode elle-même.
+
 ---
 
 ## 2. La boucle pédagogique
@@ -323,3 +327,7 @@ est démontré, déclaré, ou reste à produire.
 Elle commence avec une colonne `DÉMONTRÉ` vide. **C'est l'état réel du dossier,
 pas un défaut du livre.** C'est aussi le point à partir duquel la progression
 devient mesurable.
+
+Pour clore ce mode d'emploi, on rappellera la règle fondatrice : **un artefact
+n'est pas automatiquement une preuve de compétence.** Les formules normatives
+complètes du livre sont regroupées dans `annexes/PHRASE_MANIFESTE.md`.
