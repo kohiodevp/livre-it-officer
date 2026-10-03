@@ -61,6 +61,7 @@ supposer une compétence qui n'existe pas.
 | [`annexes/EXEMPLES_PEDAGOGIQUES.md`](annexes/EXEMPLES_PEDAGOGIQUES.md) | Démonstrations de méthode, non probantes pour le lecteur |
 | [`annexes/ETHIQUE_SECURITE.md`](annexes/ETHIQUE_SECURITE.md) | Règles de prudence pour produire et partager des preuves IT |
 | [`annexes/PARCOURS_PROGRESSION.md`](annexes/PARCOURS_PROGRESSION.md) | Outil de pilotage méthodologique de la progression |
+| [`annexes/FIL_ROUGE_CONCEPTION.md`](annexes/FIL_ROUGE_CONCEPTION.md) | Document de conception du fil rouge transversal |
 
 ---
 
