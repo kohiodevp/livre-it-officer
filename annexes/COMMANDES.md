@@ -139,8 +139,13 @@ borg list <repo>
 borg check <repo>
 
 # Test de restauration
-borg extract --dry-run <repo>::<archive> ::etc/hostname
-borg extract <repo>::<archive> ::etc/hostname <destination>
+# L'extraction se fait dans le RÉPERTOIRE COURANT.
+# Pour restaurer ailleurs, on s'y place d'abord.
+borg extract --dry-run <repo>::<archive> etc/hostname
+
+mkdir -p <destination>
+cd <destination>
+borg extract <repo>::<archive> etc/hostname
 sha256sum <source> <destination_restauré>   # comparaison
 ```
 
@@ -237,9 +242,12 @@ ansible-playbook -i ansible/inventories/production ansible/site.yml --check   # 
 ansible-playbook -i ansible/inventories/production ansible/site.yml
 ```
 
-**Prérequis non négociable.** `-i` attend un **fichier**, pas un répertoire. Un
-répertoire d'inventaire ne contenant qu'un `.gitkeep` rend la commande
-inexécutable — c'est un fait, pas une prévision.
+**Prérequis non négociable.** `-i` attend une **source d'inventaire**. La
+documentation Ansible accepte un fichier, un répertoire, une URL ou une
+liste séparée par des virgules. Un répertoire est donc accepté — mais un
+répertoire ne contenant qu'un `.gitkeep` ne fournit aucun hôte : la commande
+s'exécute alors sur l'inventaire local vide, et la cible n'est pas atteinte.
+C'est un fait, pas une prévision.
 
 ---
 

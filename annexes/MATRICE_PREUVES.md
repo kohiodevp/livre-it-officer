@@ -99,7 +99,7 @@ Trois exemples du même écart, relevés lors des audits de Phase A :
 
 | Projet | Artefact | Ce qui manque |
 |--------|----------|---------------|
-| `infra-as-code` | `site.yml` + 6 rôles rédigés | Inventaire de production vide → `ansible-playbook` non exécutable |
+| `infra-as-code` | `site.yml` + 6 rôles rédigés | Inventaire de production vide (`.gitkeep` seul) → aucune cible pour `ansible-playbook` |
 | `geo-android-offline` | `build.gradle.kts` configure Chaquopy | 0 source Android ; l'APK n'a jamais été construit |
 | `pi-kiosk-offline` | `kiosk.service` lance Chromium | Le serveur HTTP du port 8080 n'est fourni par aucun artefact |
 
