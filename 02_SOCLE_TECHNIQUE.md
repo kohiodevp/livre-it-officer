@@ -11,6 +11,10 @@ Les domaines non suffisamment documentés dans les sources restent des
 preuves **et** de limites, sans jamais transformer leur contenu en validation
 opérationnelle.
 
+Le fil rouge pédagogique se poursuit ici par un périmètre technique volontairement réduit.
+Il sert à montrer comment structurer une pratique, sans remplacer le socle technique
+réellement exercé par le lecteur.
+
 ---
 
 ## 1. Pourquoi un socle technique ?
