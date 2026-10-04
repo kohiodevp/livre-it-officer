@@ -328,6 +328,10 @@ Elle commence avec une colonne `DÉMONTRÉ` vide. **C'est l'état réel du dossi
 pas un défaut du livre.** C'est aussi le point à partir duquel la progression
 devient mesurable.
 
+Un fil rouge pédagogique transversal est conçu dans `annexes/FIL_ROUGE_CONCEPTION.md`.
+Il sert à illustrer la méthode d'une partie à l'autre, sans pré-remplir les canevas
+du lecteur et sans constituer une preuve de compétence.
+
 Pour clore ce mode d'emploi, on rappellera la règle fondatrice : **un artefact
 n'est pas automatiquement une preuve de compétence.** Les formules normatives
 complètes du livre sont regroupées dans `annexes/PHRASE_MANIFESTE.md`.
