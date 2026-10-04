@@ -9,6 +9,10 @@ explique le fonctionnement du livre ; ce fichier-ci porte sur vous.
 Elle est volontairement centrée sur le profil, sans anticiper le contenu
 technique de la Partie II.
 
+Un cas pédagogique fictif de petite structure IT accompagne ce livre en fil rouge.
+Il sert à illustrer la méthode d'une partie à l'autre, sans se substituer à votre carte
+d'inventaire : ni modèle à remplir, ni preuve de compétence.
+
 ---
 
 ## 1. Pourquoi commencer par se positionner ?
